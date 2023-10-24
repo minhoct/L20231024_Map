@@ -17,7 +17,7 @@ int main()
 	{
 		int Key = _getch();
 
-		system("cls");
+		system("cls"); //화면 시스템 txt 제거
 
 		if (Key == 'a' || Key == 'A')
 		{
